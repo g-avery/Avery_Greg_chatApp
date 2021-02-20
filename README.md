@@ -1,4 +1,4 @@
-![All about My "Conspiracy" Chat App](images/readmeImage.jpg "Conspiracy Read Me Image")
+![All about My "Conspiracy" Chat App](images/readmeImage.png "Conspiracy Read Me Image")
 
 # "Conspiracy" Chat App
 
@@ -8,8 +8,7 @@ This is a chat app specifically built for people hwoh are into conspiracy theori
 ### Getting Started
 This is an HTML / SASS / JS / PHP build.
 
-To view the page, got to gregavery.com or clone this to the location of your choice, and open the "index.html" file to start at the home page. You can also view the source code by opening it in any code editing program of your choice, or clicking inspect in a chrome tab. The roadmap document and database file can both be found within the "assets" folder. 
-
+To view the page, got to https://avery-greg-chatapp.herokuapp.com/ or clone this to the location of your choice, and open the "index.html" file to start at the home page. You can also view the source code by opening it in any code editing program of your choice, or clicking inspect in a chrome tab. 
 
 ### Prerequisites
 All you need to run this page is an up to date browser.
