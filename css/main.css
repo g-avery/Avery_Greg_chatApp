@@ -1,0 +1,81 @@
+* {
+  border: none;
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background: -webkit-gradient(linear, left bottom, left top, from(#9d00cc), to(#ff41fb)) fixed no-repeat;
+  background: linear-gradient(0deg, #9d00cc 0%, #ff41fb 100%) fixed no-repeat;
+  color: black;
+  font-family: arial, helvetica, sans-serif;
+  font-size: 20px;
+  height: 90%;
+}
+
+main {
+  height: 100%;
+}
+
+html {
+  height: 100%;
+  -ms-flex-line-pack: center;
+      align-content: center;
+}
+
+a {
+  display: block;
+  color: black;
+  text-decoration: none;
+  margin: 1rem 0;
+}
+
+h1 {
+  font-family: bebas neue, arial;
+  font-size: 100px;
+  text-shadow: 2px 2px 8px #616161;
+  color: white;
+}
+
+.new-message {
+  padding: 10px;
+  background-color: blue;
+  color: white;
+  border-redius: 8px;
+  float: left;
+  clear: both;
+}
+
+.my-message {
+  background-color: green;
+  float: right;
+}
+
+.logo {
+  height: 100px;
+}
+
+.typeBox {
+  height: 25px;
+  width: 10%;
+  border-radius: 6px;
+  border-width: 6px;
+  background-color: transparent;
+  border-color: black;
+}
+
+.joinBox {
+  height: 25px;
+  width: 10%;
+  border-radius: 30px;
+}
+
+.footer {
+  height: 100px;
+  width: 100%;
+  background-color: black;
+  color: white;
+}
+/*# sourceMappingURL=main.css.map */
